@@ -1,4 +1,4 @@
-s3_bucket = "terraform-state-april-class-mihaela"
+s3_bucket = "jenkins-tasks"
 s3_folder_project = "terraform_ec2"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
